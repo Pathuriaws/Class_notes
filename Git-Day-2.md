@@ -1,4 +1,4 @@
-# Git Day-2 _(10-11-23)_
+# Git Day-2 _(09-11-23)_
 
 Git Commands
 
