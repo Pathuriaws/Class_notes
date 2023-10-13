@@ -99,3 +99,4 @@ Create a commit with a message
 Push the commit to the remote repository
 
 ```git push origin new-feature```
+#we will be having further sessions on git push and git fetch from git topic
